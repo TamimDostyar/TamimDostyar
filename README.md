@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TamimDostyar
+- 👋 Hi, I’m Tamim Dostyar
 - 👀 I’m interested in developing softwares, developing websites
 - 🌱 I’m currently first year student at Luther College pursuing CS
 - 📫 Reach me out throug my linkedln: https://www.linkedin.com/in/ahmad-tamim-dostyar-447444223/
