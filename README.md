@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamim Dostyar
-- 👀 I’m interested in developing softwares, developing websites
-- 🌱 I’m currently first year student at Luther College pursuing CS
-- 📫 Reach me out throug my linkedln: https://www.linkedin.com/in/ahmad-tamim-dostyar-447444223/
+- 👀 I’m interested in developing software, developing websites
+- 🌱 I’m currently first-year student at Luther College pursuing CS
+- 📫 Reach out to me through my LinkedIn: https://www.linkedin.com/in/ahmad-tamim-dostyar-447444223/
 
 <!---
 TamimDostyar/TamimDostyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
