@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tamim Dostyar
 - 👀 I’m interested in developing software, developing websites
-- 🌱 I’m currently second-year student at Luther College pursuing CS
+- 🌱 I’m currently a second-year student at Luther College pursuing CS
 - 📫 Reach out to me through my LinkedIn: https://www.linkedin.com/in/ahmad-tamim-dostyar-447444223/
 
 <!---
