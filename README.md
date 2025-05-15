@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Hey There" width="600"/>
+  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Hey There" width="200"/>
 </p>
 
 # 👋 Hi, I’m Tamim Dostyar
