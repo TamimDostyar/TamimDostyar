@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKzqq5bQ9Vkz7aI/giphy.gif" alt="Coding GIF" width="600"/>
+  Hey there, I am Tamim
 </p>
 
 # 👋 Hi, I’m Tamim Dostyar
@@ -50,16 +50,3 @@ https://camo.githubusercontent.com/2b8832a17f54c1472bf966b66d99f3c6ef7adb05db87c
 - **Animal Image Classifier:** Django + CNN model to identify 20+ species; Dockerized for easy deploy.  
 - **Music Searcher:** Python desktop app that fetches albums & plays songs via public APIs.  
 - **Data Collector Tool:** GUI for gathering company data into CSV outputs.  
-- **Chatbot App:** Python-based conversational bot for automation tasks.  
-- **Santa Claus Game:** Holiday-themed Pygame adventure collecting presents.  
-- **YouTube Automation Bot:** Scripts interacting with YouTube API to streamline actions.  
-- **API Projects:** Joke API fetcher; Netflix-style movie trailer showcase.  
-- **Open-Source Forks:** Explored real-time deepfake (Deep-Live-Cam) & DeepL Python library.  
-- **Competitive Programming:** Collection of LeetCode solutions demonstrating algorithms & DSA skills.
-
----
-
-<!---
-TamimDostyar/TamimDostyar is ✨ special ✨ because it appears on your GitHub profile.
-Feel free to click “Preview” to see how it looks!
---->
