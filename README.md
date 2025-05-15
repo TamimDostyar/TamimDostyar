@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Technical Profile Overview
-
+https://camo.githubusercontent.com/2b8832a17f54c1472bf966b66d99f3c6ef7adb05db87c017a7d32b5ac7d6c67a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c632c6370702c6a6176612c68746d6c2c6373732c6a6176617363726970742c6d6f6e676f64622c657870726573732c72656163742c6e6f64656a732c6865726f6b752c76657263656c
 ### Programming Languages
 - **Python:** Primary language for data analysis, automation & ML (chatbots, games, data tools).  
 - **JavaScript/TypeScript:** Web development with React, Bulma, Bootstrap; built interactive SPAs and a Netflix-style trailer site.  
