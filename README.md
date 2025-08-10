@@ -1,7 +1,7 @@
 
 # Hi, I’m Tamim Dostyar
 - 👀 I am an expert at making AI applications, AI models, and Deep Learning algorithms, Software Development, and Cloud Engineering.
-- 🌱 I’m currently a second-year student at Luther College pursuing CS  
+- 🌱 I’m currently a third-year student at Luther College pursuing CS  
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmad-tamim-dostyar-447444223/)  
 <p align="center">
   <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Hey There" width="200"/>
