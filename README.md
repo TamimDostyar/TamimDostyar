@@ -1,6 +1,6 @@
 
 # Hi, I’m Tamim Dostyar
-- 👀 I am an expert at making AI applications, AI models, and Deep Learning algorithms, Software Development, and Cloud Engineering.
+- 👀 I am an engineer who makes AI applications, AI models, Deep Learning algorithms, Software Development, and Cloud-based software along with pipelines.
 - 🌱 I’m currently a third-year student at Luther College pursuing CS  
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/tamim-dostyar/)  
 <p align="center">
