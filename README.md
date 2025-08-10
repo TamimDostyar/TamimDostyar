@@ -52,9 +52,3 @@
 - **Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch, Matplotlib.  
 - **DevOps:** Git, Docker, Docker Compose; pip, npm; Conda/venv.  
 - **Utilities:** Selenium, Puppeteer; PyCharm, VS Code; GitHub Actions, Netlify.
-
-### Notable Projects
-- **AI Text Detector:** Detects AI-generated vs. human text in real time with confidence scores.  
-- **Animal Image Classifier:** Django + CNN model to identify 20+ species; Dockerized for easy deploy.  
-- **Music Searcher:** Python desktop app that fetches albums & plays songs via public APIs.  
-- **Data Collector Tool:** GUI for gathering company data into CSV outputs.  
