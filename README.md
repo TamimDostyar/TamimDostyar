@@ -12,7 +12,7 @@
 
 
 ### Programming Languages
-I can efficiently work with below tech stacks:
+I can effectively work with the following tech stacks:
 
 - **Python:** Primary language for data analysis, automation & ML.  
 - **JavaScript/TypeScript:** Web development with React, Bulma, Bootstrap.  
