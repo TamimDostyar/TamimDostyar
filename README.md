@@ -16,7 +16,7 @@ I can efficiently work with below tech stacks:
 - **Python:** Primary language for data analysis, automation & ML.  
 - **JavaScript/TypeScript:** Web development with React, Bulma, Bootstrap.  
 - **Java:** OOP fundamentals.
-- **C** Create/Develop OS and Compiler.  
+- **C:** Create/Develop OS and Compiler.  
 - **SQL & Shell:** SQLite/PostgreSQL for web apps; shell scripts for DevOps tasks (Docker entrypoints, automation).
 
 ### Cloud & DevOps
