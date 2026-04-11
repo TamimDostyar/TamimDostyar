@@ -1,6 +1,5 @@
 
-# Hello, World! 
-# This is Tamim Dostyar
+# Hello, World -- This is Tamim Dostyar!
 - I like to build smart software and ML algorithms and work with OS in lower-level languages. Wanna work on a project together?
   - POINT OF CONTACT: [LinkedIn](https://www.linkedin.com/in/tamim-dostyar/)
 
