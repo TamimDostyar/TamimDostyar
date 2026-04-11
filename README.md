@@ -1,8 +1,8 @@
 
 # Hello, World -- This is Tamim Dostyar!
-- I like to build smart software and ML algorithms and work with OS in lower-level languages. Wanna work on a project together?
-  - POINT OF CONTACT: [LinkedIn](https://www.linkedin.com/in/tamim-dostyar/)
-  - a.tamimdostyar@gmail.com
+- I like to build smart software and ML algorithms and work with OS in lower-level languages. Wanna work on a project together? POINT OF CONTACTS:
+    - [LinkedIn](https://www.linkedin.com/in/tamim-dostyar/)
+    - a.tamimdostyar@gmail.com
 ---
 <p align="center">
   <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Hey There" width="200"/>
