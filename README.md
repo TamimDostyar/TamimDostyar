@@ -34,7 +34,7 @@ I can effectively work with the following tech stacks:
 
 
 **So yes, enough about me, let's coffee chat to unlock the private projects I have on my GitHub.**</br>
-**You are not a developer? Let's talk about trading and investing then!**
+**You are not a developer? Let's talk about trading and investing then!**</br>
 
 
 ![INVESTING](trade.png)
