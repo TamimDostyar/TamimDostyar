@@ -33,7 +33,7 @@ I can effectively work with the following tech stacks:
 - **Data Science:** Feature engineering, model evaluation; dual CS & Data Science major foundation.  
 
 
-**So yes, enough about me, let's coffee chat to unlock the private projects I have on my GitHub.**
+**So yes, enough about me, let's coffee chat to unlock the private projects I have on my GitHub.**</br>
 **You are not a developer? Let's talk about trading and investing then!**
 
 
